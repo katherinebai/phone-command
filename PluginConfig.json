@@ -1,0 +1,16 @@
+﻿{
+  "assembly": [
+    "PhoneCommand.dll"
+  ],
+  "javascript": [
+    "Resources\\PhoneCommand.js"
+  ],
+  "css": [],
+  "image": "Resources\\PluginLogo.png",
+  "description": "please edit description here",
+  "name": "PhoneCommand",
+  "pluginType": "command",
+  "guid": "38c54de1-e280-4b3d-971f-d9ab9ee4455e",
+  "version": "1.0.0.0",
+  "dependenceVersion": "3.0.200.0"
+}
